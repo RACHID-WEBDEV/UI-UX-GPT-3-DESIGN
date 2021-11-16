@@ -2,8 +2,6 @@
 
 ###[Figma Link](https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A1)
 
-### [Live Site](https://gpt3-jsm.com/)
-
 ![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
 
 ## Introduction
@@ -23,7 +21,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project first, you can run:
+
+### `npm install`
+
+To install node-modules and other dependencies
+
+Then, you can run:
 
 ### `npm start`
 
